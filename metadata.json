@@ -1,0 +1,6 @@
+{
+  "name": "Charge FX",
+  "description": "Ultimate charging animation app featuring real Android battery detection and 30+ visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
